@@ -12,6 +12,7 @@
 #include <fstream>
 #include <algorithm>
 #include <random>
+// by Quixi
 namespace AntiCrack
 {
 

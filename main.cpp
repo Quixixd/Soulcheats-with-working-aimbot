@@ -17,7 +17,7 @@
 #pragma comment(lib, "Shlwapi.lib")
 #include<string>
 #pragma comment(lib, "urlmon.lib")
-
+// by Quixi
 HWND hWnd;
 HWND windowHWND;
 WNDPROC m_og_wndproc;

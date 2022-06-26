@@ -1,7 +1,7 @@
 #include "imgui/imgui.h"
 #include <Windows.h>
 #include <string>
-
+// by Quixi
 namespace Config
 {
 	extern DWORD64 GTA5;

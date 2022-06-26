@@ -5,7 +5,7 @@
 #include "imgui/imgui.h"
 #include "Logger.h"
 #include <thread>
-
+// by Quixi
 int utilities::getFPS()
 {
 	return ImGui::GetIO().Framerate;

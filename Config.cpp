@@ -6,7 +6,7 @@
 #include <direct.h>
 #include <string>
 #include <basetsd.h>
-
+// by Quixi
 namespace Config
 {
 	DWORD64 GTA5;

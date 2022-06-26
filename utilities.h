@@ -1,5 +1,5 @@
 #pragma once
-
+// by Quixi
 namespace utilities
 {
 	extern int getFPS();

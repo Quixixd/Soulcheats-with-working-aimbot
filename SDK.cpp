@@ -1,6 +1,6 @@
 #include "SDK.h"
 #include <string>
-
+// by Quixi
 namespace SDK
 {
 	typedef BOOLEAN(__cdecl* WorldToScreen_t)(Vector3* WorldPos, float* x, float* y);
