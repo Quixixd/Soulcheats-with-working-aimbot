@@ -1,0 +1,204 @@
+﻿  Aimbot.cpp
+C:\Users\Properties\Documents\GitHub\Soulcheats-with-working-aimbot\Aimbot.cpp(33,68): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\Properties\Documents\GitHub\Soulcheats-with-working-aimbot\Aimbot.cpp(207,28): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+  AntiCrack.cpp
+  Config.cpp
+  The contents of <filesystem> are available only with C++17 or later.
+C:\Users\Properties\Documents\GitHub\Soulcheats-with-working-aimbot\Config.cpp(156,3): warning C4996: 'mkdir': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _mkdir. See online help for details.
+  ESP.cpp
+C:\Users\Properties\Documents\GitHub\Soulcheats-with-working-aimbot\ESP.cpp(59,61): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\Properties\Documents\GitHub\Soulcheats-with-working-aimbot\ESP.cpp(98,67): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  GUI.cpp
+  The contents of <filesystem> are available only with C++17 or later.
+C:\Users\Properties\Documents\GitHub\Soulcheats-with-working-aimbot\GUI.cpp(485,82): warning C4305: "Argument": Verkürzung von "double" in "float"
+C:\Users\Properties\Documents\GitHub\Soulcheats-with-working-aimbot\GUI.cpp(505,65): warning C4244: "Argument": Konvertierung von "LONG" in "float", möglicher Datenverlust
+C:\Users\Properties\Documents\GitHub\Soulcheats-with-working-aimbot\GUI.cpp(505,58): warning C4244: "Argument": Konvertierung von "LONG" in "float", möglicher Datenverlust
+C:\Users\Properties\Documents\GitHub\Soulcheats-with-working-aimbot\GUI.cpp(505,88): warning C4244: "Argument": Konvertierung von "LONG" in "float", möglicher Datenverlust
+C:\Users\Properties\Documents\GitHub\Soulcheats-with-working-aimbot\GUI.cpp(505,81): warning C4244: "Argument": Konvertierung von "LONG" in "float", möglicher Datenverlust
+C:\Users\Properties\Documents\GitHub\Soulcheats-with-working-aimbot\GUI.cpp(506,63): warning C4244: "Argument": Konvertierung von "LONG" in "float", möglicher Datenverlust
+C:\Users\Properties\Documents\GitHub\Soulcheats-with-working-aimbot\GUI.cpp(506,55): warning C4244: "Argument": Konvertierung von "LONG" in "float", möglicher Datenverlust
+C:\Users\Properties\Documents\GitHub\Soulcheats-with-working-aimbot\GUI.cpp(506,86): warning C4244: "Argument": Konvertierung von "LONG" in "float", möglicher Datenverlust
+C:\Users\Properties\Documents\GitHub\Soulcheats-with-working-aimbot\GUI.cpp(506,78): warning C4244: "Argument": Konvertierung von "LONG" in "float", möglicher Datenverlust
+C:\Users\Properties\Documents\GitHub\Soulcheats-with-working-aimbot\GUI.cpp(507,65): warning C4244: "Argument": Konvertierung von "LONG" in "float", möglicher Datenverlust
+C:\Users\Properties\Documents\GitHub\Soulcheats-with-working-aimbot\GUI.cpp(507,58): warning C4244: "Argument": Konvertierung von "LONG" in "float", möglicher Datenverlust
+C:\Users\Properties\Documents\GitHub\Soulcheats-with-working-aimbot\GUI.cpp(507,88): warning C4244: "Argument": Konvertierung von "LONG" in "float", möglicher Datenverlust
+C:\Users\Properties\Documents\GitHub\Soulcheats-with-working-aimbot\GUI.cpp(507,81): warning C4244: "Argument": Konvertierung von "LONG" in "float", möglicher Datenverlust
+C:\Users\Properties\Documents\GitHub\Soulcheats-with-working-aimbot\GUI.cpp(508,63): warning C4244: "Argument": Konvertierung von "LONG" in "float", möglicher Datenverlust
+C:\Users\Properties\Documents\GitHub\Soulcheats-with-working-aimbot\GUI.cpp(508,55): warning C4244: "Argument": Konvertierung von "LONG" in "float", möglicher Datenverlust
+C:\Users\Properties\Documents\GitHub\Soulcheats-with-working-aimbot\GUI.cpp(508,86): warning C4244: "Argument": Konvertierung von "LONG" in "float", möglicher Datenverlust
+C:\Users\Properties\Documents\GitHub\Soulcheats-with-working-aimbot\GUI.cpp(508,78): warning C4244: "Argument": Konvertierung von "LONG" in "float", möglicher Datenverlust
+C:\Users\Properties\Documents\GitHub\Soulcheats-with-working-aimbot\GUI.cpp(509,65): warning C4244: "Argument": Konvertierung von "LONG" in "float", möglicher Datenverlust
+C:\Users\Properties\Documents\GitHub\Soulcheats-with-working-aimbot\GUI.cpp(509,58): warning C4244: "Argument": Konvertierung von "LONG" in "float", möglicher Datenverlust
+C:\Users\Properties\Documents\GitHub\Soulcheats-with-working-aimbot\GUI.cpp(509,88): warning C4244: "Argument": Konvertierung von "LONG" in "float", möglicher Datenverlust
+C:\Users\Properties\Documents\GitHub\Soulcheats-with-working-aimbot\GUI.cpp(509,81): warning C4244: "Argument": Konvertierung von "LONG" in "float", möglicher Datenverlust
+C:\Users\Properties\Documents\GitHub\Soulcheats-with-working-aimbot\GUI.cpp(510,63): warning C4244: "Argument": Konvertierung von "LONG" in "float", möglicher Datenverlust
+C:\Users\Properties\Documents\GitHub\Soulcheats-with-working-aimbot\GUI.cpp(510,55): warning C4244: "Argument": Konvertierung von "LONG" in "float", möglicher Datenverlust
+C:\Users\Properties\Documents\GitHub\Soulcheats-with-working-aimbot\GUI.cpp(510,86): warning C4244: "Argument": Konvertierung von "LONG" in "float", möglicher Datenverlust
+C:\Users\Properties\Documents\GitHub\Soulcheats-with-working-aimbot\GUI.cpp(510,78): warning C4244: "Argument": Konvertierung von "LONG" in "float", möglicher Datenverlust
+C:\Users\Properties\Documents\GitHub\Soulcheats-with-working-aimbot\GUI.cpp(895,66): warning C4244: "Argument": Konvertierung von "LONG" in "float", möglicher Datenverlust
+C:\Users\Properties\Documents\GitHub\Soulcheats-with-working-aimbot\GUI.cpp(895,59): warning C4244: "Argument": Konvertierung von "LONG" in "float", möglicher Datenverlust
+C:\Users\Properties\Documents\GitHub\Soulcheats-with-working-aimbot\GUI.cpp(895,89): warning C4244: "Argument": Konvertierung von "LONG" in "float", möglicher Datenverlust
+C:\Users\Properties\Documents\GitHub\Soulcheats-with-working-aimbot\GUI.cpp(895,82): warning C4244: "Argument": Konvertierung von "LONG" in "float", möglicher Datenverlust
+C:\Users\Properties\Documents\GitHub\Soulcheats-with-working-aimbot\GUI.cpp(896,64): warning C4244: "Argument": Konvertierung von "LONG" in "float", möglicher Datenverlust
+C:\Users\Properties\Documents\GitHub\Soulcheats-with-working-aimbot\GUI.cpp(896,56): warning C4244: "Argument": Konvertierung von "LONG" in "float", möglicher Datenverlust
+C:\Users\Properties\Documents\GitHub\Soulcheats-with-working-aimbot\GUI.cpp(896,87): warning C4244: "Argument": Konvertierung von "LONG" in "float", möglicher Datenverlust
+C:\Users\Properties\Documents\GitHub\Soulcheats-with-working-aimbot\GUI.cpp(896,79): warning C4244: "Argument": Konvertierung von "LONG" in "float", möglicher Datenverlust
+C:\Users\Properties\Documents\GitHub\Soulcheats-with-working-aimbot\GUI.cpp(897,66): warning C4244: "Argument": Konvertierung von "LONG" in "float", möglicher Datenverlust
+C:\Users\Properties\Documents\GitHub\Soulcheats-with-working-aimbot\GUI.cpp(897,59): warning C4244: "Argument": Konvertierung von "LONG" in "float", möglicher Datenverlust
+C:\Users\Properties\Documents\GitHub\Soulcheats-with-working-aimbot\GUI.cpp(897,89): warning C4244: "Argument": Konvertierung von "LONG" in "float", möglicher Datenverlust
+C:\Users\Properties\Documents\GitHub\Soulcheats-with-working-aimbot\GUI.cpp(897,82): warning C4244: "Argument": Konvertierung von "LONG" in "float", möglicher Datenverlust
+C:\Users\Properties\Documents\GitHub\Soulcheats-with-working-aimbot\GUI.cpp(898,64): warning C4244: "Argument": Konvertierung von "LONG" in "float", möglicher Datenverlust
+C:\Users\Properties\Documents\GitHub\Soulcheats-with-working-aimbot\GUI.cpp(898,56): warning C4244: "Argument": Konvertierung von "LONG" in "float", möglicher Datenverlust
+C:\Users\Properties\Documents\GitHub\Soulcheats-with-working-aimbot\GUI.cpp(898,87): warning C4244: "Argument": Konvertierung von "LONG" in "float", möglicher Datenverlust
+C:\Users\Properties\Documents\GitHub\Soulcheats-with-working-aimbot\GUI.cpp(898,79): warning C4244: "Argument": Konvertierung von "LONG" in "float", möglicher Datenverlust
+C:\Users\Properties\Documents\GitHub\Soulcheats-with-working-aimbot\GUI.cpp(899,66): warning C4244: "Argument": Konvertierung von "LONG" in "float", möglicher Datenverlust
+C:\Users\Properties\Documents\GitHub\Soulcheats-with-working-aimbot\GUI.cpp(899,59): warning C4244: "Argument": Konvertierung von "LONG" in "float", möglicher Datenverlust
+C:\Users\Properties\Documents\GitHub\Soulcheats-with-working-aimbot\GUI.cpp(899,89): warning C4244: "Argument": Konvertierung von "LONG" in "float", möglicher Datenverlust
+C:\Users\Properties\Documents\GitHub\Soulcheats-with-working-aimbot\GUI.cpp(899,82): warning C4244: "Argument": Konvertierung von "LONG" in "float", möglicher Datenverlust
+C:\Users\Properties\Documents\GitHub\Soulcheats-with-working-aimbot\GUI.cpp(900,64): warning C4244: "Argument": Konvertierung von "LONG" in "float", möglicher Datenverlust
+C:\Users\Properties\Documents\GitHub\Soulcheats-with-working-aimbot\GUI.cpp(900,56): warning C4244: "Argument": Konvertierung von "LONG" in "float", möglicher Datenverlust
+C:\Users\Properties\Documents\GitHub\Soulcheats-with-working-aimbot\GUI.cpp(900,87): warning C4244: "Argument": Konvertierung von "LONG" in "float", möglicher Datenverlust
+C:\Users\Properties\Documents\GitHub\Soulcheats-with-working-aimbot\GUI.cpp(900,79): warning C4244: "Argument": Konvertierung von "LONG" in "float", möglicher Datenverlust
+  Helper.cpp
+  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_impl_dx11.cpp
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(12,1): warning C4005: "DXGI_STATUS_OCCLUDED": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56388): message : Siehe vorherige Definition von "DXGI_STATUS_OCCLUDED"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(13,1): warning C4005: "DXGI_STATUS_CLIPPED": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56397): message : Siehe vorherige Definition von "DXGI_STATUS_CLIPPED"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(14,1): warning C4005: "DXGI_STATUS_NO_REDIRECTION": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56406): message : Siehe vorherige Definition von "DXGI_STATUS_NO_REDIRECTION"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(15,1): warning C4005: "DXGI_STATUS_NO_DESKTOP_ACCESS": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56415): message : Siehe vorherige Definition von "DXGI_STATUS_NO_DESKTOP_ACCESS"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(16,1): warning C4005: "DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56424): message : Siehe vorherige Definition von "DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(17,1): warning C4005: "DXGI_STATUS_MODE_CHANGED": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56433): message : Siehe vorherige Definition von "DXGI_STATUS_MODE_CHANGED"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(18,1): warning C4005: "DXGI_STATUS_MODE_CHANGE_IN_PROGRESS": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56442): message : Siehe vorherige Definition von "DXGI_STATUS_MODE_CHANGE_IN_PROGRESS"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(21,1): warning C4005: "DXGI_ERROR_INVALID_CALL": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56457): message : Siehe vorherige Definition von "DXGI_ERROR_INVALID_CALL"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(22,1): warning C4005: "DXGI_ERROR_NOT_FOUND": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56466): message : Siehe vorherige Definition von "DXGI_ERROR_NOT_FOUND"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(23,1): warning C4005: "DXGI_ERROR_MORE_DATA": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56475): message : Siehe vorherige Definition von "DXGI_ERROR_MORE_DATA"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(24,1): warning C4005: "DXGI_ERROR_UNSUPPORTED": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56484): message : Siehe vorherige Definition von "DXGI_ERROR_UNSUPPORTED"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(25,1): warning C4005: "DXGI_ERROR_DEVICE_REMOVED": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56493): message : Siehe vorherige Definition von "DXGI_ERROR_DEVICE_REMOVED"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(26,1): warning C4005: "DXGI_ERROR_DEVICE_HUNG": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56502): message : Siehe vorherige Definition von "DXGI_ERROR_DEVICE_HUNG"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(27,1): warning C4005: "DXGI_ERROR_DEVICE_RESET": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56512): message : Siehe vorherige Definition von "DXGI_ERROR_DEVICE_RESET"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(28,1): warning C4005: "DXGI_ERROR_WAS_STILL_DRAWING": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56521): message : Siehe vorherige Definition von "DXGI_ERROR_WAS_STILL_DRAWING"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(29,1): warning C4005: "DXGI_ERROR_FRAME_STATISTICS_DISJOINT": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56531): message : Siehe vorherige Definition von "DXGI_ERROR_FRAME_STATISTICS_DISJOINT"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(30,1): warning C4005: "DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56540): message : Siehe vorherige Definition von "DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(31,1): warning C4005: "DXGI_ERROR_DRIVER_INTERNAL_ERROR": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56550): message : Siehe vorherige Definition von "DXGI_ERROR_DRIVER_INTERNAL_ERROR"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(32,1): warning C4005: "DXGI_ERROR_NONEXCLUSIVE": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56559): message : Siehe vorherige Definition von "DXGI_ERROR_NONEXCLUSIVE"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(33,1): warning C4005: "DXGI_ERROR_NOT_CURRENTLY_AVAILABLE": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56568): message : Siehe vorherige Definition von "DXGI_ERROR_NOT_CURRENTLY_AVAILABLE"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(34,1): warning C4005: "DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56578): message : Siehe vorherige Definition von "DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(35,1): warning C4005: "DXGI_ERROR_REMOTE_OUTOFMEMORY": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56587): message : Siehe vorherige Definition von "DXGI_ERROR_REMOTE_OUTOFMEMORY"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d11.h(917,1): warning C4005: "D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56865): message : Siehe vorherige Definition von "D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d11.h(918,1): warning C4005: "D3D11_ERROR_FILE_NOT_FOUND": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56874): message : Siehe vorherige Definition von "D3D11_ERROR_FILE_NOT_FOUND"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d11.h(919,1): warning C4005: "D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56884): message : Siehe vorherige Definition von "D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d11.h(920,1): warning C4005: "D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56893): message : Siehe vorherige Definition von "D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d10.h(608,1): warning C4005: "D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56841): message : Siehe vorherige Definition von "D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d10.h(609,1): warning C4005: "D3D10_ERROR_FILE_NOT_FOUND": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56850): message : Siehe vorherige Definition von "D3D10_ERROR_FILE_NOT_FOUND"
+  imgui_impl_dx9.cpp
+  imgui_impl_win32.cpp
+  imgui_widgets.cpp
+  Logger.cpp
+  The contents of <filesystem> are available only with C++17 or later.
+C:\Users\Properties\Documents\GitHub\Soulcheats-with-working-aimbot\Logger.cpp(12,3): warning C4996: 'mkdir': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _mkdir. See online help for details.
+  Mains.cpp
+  main.cpp
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(12,1): warning C4005: "DXGI_STATUS_OCCLUDED": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56388): message : Siehe vorherige Definition von "DXGI_STATUS_OCCLUDED"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(13,1): warning C4005: "DXGI_STATUS_CLIPPED": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56397): message : Siehe vorherige Definition von "DXGI_STATUS_CLIPPED"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(14,1): warning C4005: "DXGI_STATUS_NO_REDIRECTION": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56406): message : Siehe vorherige Definition von "DXGI_STATUS_NO_REDIRECTION"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(15,1): warning C4005: "DXGI_STATUS_NO_DESKTOP_ACCESS": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56415): message : Siehe vorherige Definition von "DXGI_STATUS_NO_DESKTOP_ACCESS"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(16,1): warning C4005: "DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56424): message : Siehe vorherige Definition von "DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(17,1): warning C4005: "DXGI_STATUS_MODE_CHANGED": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56433): message : Siehe vorherige Definition von "DXGI_STATUS_MODE_CHANGED"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(18,1): warning C4005: "DXGI_STATUS_MODE_CHANGE_IN_PROGRESS": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56442): message : Siehe vorherige Definition von "DXGI_STATUS_MODE_CHANGE_IN_PROGRESS"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(21,1): warning C4005: "DXGI_ERROR_INVALID_CALL": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56457): message : Siehe vorherige Definition von "DXGI_ERROR_INVALID_CALL"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(22,1): warning C4005: "DXGI_ERROR_NOT_FOUND": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56466): message : Siehe vorherige Definition von "DXGI_ERROR_NOT_FOUND"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(23,1): warning C4005: "DXGI_ERROR_MORE_DATA": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56475): message : Siehe vorherige Definition von "DXGI_ERROR_MORE_DATA"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(24,1): warning C4005: "DXGI_ERROR_UNSUPPORTED": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56484): message : Siehe vorherige Definition von "DXGI_ERROR_UNSUPPORTED"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(25,1): warning C4005: "DXGI_ERROR_DEVICE_REMOVED": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56493): message : Siehe vorherige Definition von "DXGI_ERROR_DEVICE_REMOVED"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(26,1): warning C4005: "DXGI_ERROR_DEVICE_HUNG": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56502): message : Siehe vorherige Definition von "DXGI_ERROR_DEVICE_HUNG"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(27,1): warning C4005: "DXGI_ERROR_DEVICE_RESET": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56512): message : Siehe vorherige Definition von "DXGI_ERROR_DEVICE_RESET"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(28,1): warning C4005: "DXGI_ERROR_WAS_STILL_DRAWING": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56521): message : Siehe vorherige Definition von "DXGI_ERROR_WAS_STILL_DRAWING"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(29,1): warning C4005: "DXGI_ERROR_FRAME_STATISTICS_DISJOINT": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56531): message : Siehe vorherige Definition von "DXGI_ERROR_FRAME_STATISTICS_DISJOINT"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(30,1): warning C4005: "DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56540): message : Siehe vorherige Definition von "DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(31,1): warning C4005: "DXGI_ERROR_DRIVER_INTERNAL_ERROR": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56550): message : Siehe vorherige Definition von "DXGI_ERROR_DRIVER_INTERNAL_ERROR"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(32,1): warning C4005: "DXGI_ERROR_NONEXCLUSIVE": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56559): message : Siehe vorherige Definition von "DXGI_ERROR_NONEXCLUSIVE"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(33,1): warning C4005: "DXGI_ERROR_NOT_CURRENTLY_AVAILABLE": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56568): message : Siehe vorherige Definition von "DXGI_ERROR_NOT_CURRENTLY_AVAILABLE"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(34,1): warning C4005: "DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56578): message : Siehe vorherige Definition von "DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(35,1): warning C4005: "DXGI_ERROR_REMOTE_OUTOFMEMORY": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56587): message : Siehe vorherige Definition von "DXGI_ERROR_REMOTE_OUTOFMEMORY"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d11.h(917,1): warning C4005: "D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56865): message : Siehe vorherige Definition von "D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d11.h(918,1): warning C4005: "D3D11_ERROR_FILE_NOT_FOUND": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56874): message : Siehe vorherige Definition von "D3D11_ERROR_FILE_NOT_FOUND"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d11.h(919,1): warning C4005: "D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56884): message : Siehe vorherige Definition von "D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d11.h(920,1): warning C4005: "D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56893): message : Siehe vorherige Definition von "D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d10.h(608,1): warning C4005: "D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56841): message : Siehe vorherige Definition von "D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d10.h(609,1): warning C4005: "D3D10_ERROR_FILE_NOT_FOUND": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56850): message : Siehe vorherige Definition von "D3D10_ERROR_FILE_NOT_FOUND"
+  Pools.cpp
+  SDK.cpp
+  utilities.cpp
+  The contents of <filesystem> are available only with C++17 or later.
+C:\Users\Properties\Documents\GitHub\Soulcheats-with-working-aimbot\utilities.cpp(11,23): warning C4244: "return": Konvertierung von "float" in "int", möglicher Datenverlust
+  buffer.c
+  hde32.c
+  hde64.c
+  hook.c
+  trampoline.c
+  Code wird generiert.
+  Previous IPDB was built with incompatible compiler, fall back to full compilation.
+C:\Users\Properties\Documents\GitHub\Soulcheats-with-working-aimbot\SDK.cpp(34): warning C4715: "SDK::GetCameraViewAngles": Nicht alle Codepfade geben einen Wert zurück.
+C:\Users\Properties\Documents\GitHub\Soulcheats-with-working-aimbot\SDK.cpp(41): warning C4715: "SDK::GetReplayInterface": Nicht alle Codepfade geben einen Wert zurück.
+C:\Users\Properties\Documents\GitHub\Soulcheats-with-working-aimbot\SDK.cpp(100): warning C4715: "SDK::PLAYER::Position": Nicht alle Codepfade geben einen Wert zurück.
+  All 1327 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Codegenerierung ist abgeschlossen.
+  ragemp-simple.vcxproj -> C:\Users\Properties\Documents\GitHub\Soulcheats-with-working-aimbot\x64\Release\soul.dll
